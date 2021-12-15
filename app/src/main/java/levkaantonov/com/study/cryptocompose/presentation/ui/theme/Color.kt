@@ -1,4 +1,4 @@
-package levkaantonov.com.study.cryptocompose.ui.theme
+package levkaantonov.com.study.cryptocompose.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
